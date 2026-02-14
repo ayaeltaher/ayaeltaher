@@ -40,8 +40,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ayaeltaher"><img src="https://github-readme-stats.vercel.app/api?username=ayaeltaher&show_icons=true&theme=buefy&hide_border=true" /></a>
-  <a href="https://github.com/ayaeltaher"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaeltaher&layout=compact&theme=buefy&hide_border=true" /></a>
+  <a href="https://github.com/ayaeltaher">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaeltaher&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" alt="Aya's GitHub Stats" />
+  </a>
+  <a href="https://github.com/ayaeltaher">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaeltaher&layout=compact&theme=tokyonight&hide_border=false" />
+  </a>
 </p>
 
 ---
