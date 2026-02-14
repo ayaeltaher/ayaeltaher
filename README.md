@@ -3,25 +3,17 @@
 </p>
 
 <h1 align="center">Hi, I'm Aya ElTaher 👋</h1>
-<h3 align="center">Computer Science Student 🧠 | AI & Robotics Enthusiast 🤖 | Space & Coffee Lover 🌌☕</h3>
+<h3 align="center">CS Student 🧠 | AI & Robotics 🤖 | Space & Coffee 🌌☕</h3>
 
 ---
 
 ## 🌟 Skills
-
-| Programming & Software | AI & ML | Other Interests |
-|------------------------|---------|----------------|
-| Python 🐍 | Machine Learning 🤖 | Robotics 🤖 |
-| C++ 💻 | Deep Learning 🧠 | Computer Vision 👁️ |
-| Java ☕ | Neural Networks (NN, CNN) 🕸️ | Space Exploration 🌌 |
-| Git 🌿 | YOLO 📸 | - |
+Python, C++, Java, Git | ML, DL, NN & CNN | CV & Robotics
 
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](Your_LinkedIn)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Your_Email)
+## 📫 Connect
+[LinkedIn](Your_LinkedIn) | [Email](mailto:Your_Email)
 
 ---
 
