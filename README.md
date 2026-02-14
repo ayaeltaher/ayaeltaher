@@ -7,23 +7,29 @@
 
 ---
 
-## 🚀 About Me
-
-🎓 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks (NN, CNN), Computer Vision, Robotics, and Software Development  
-🚀 Fascinated by Space, Stars, Planets, the Moon, and the mysteries of the Universe  
-☕ Lover of coffee, calm nights, and stargazing  
-
----
-
 ## 🌟 Skills
 
-| Programming & Software | AI & ML | Other Interests |
-|------------------------|---------|----------------|
-| **Python** 🐍 | **Machine Learning** 🤖 | **Robotics** 🤖 |
-| **C++** 💻 | **Deep Learning** 🧠 | **Computer Vision** 👁️ |
-| **Java** ☕ | **Neural Networks (NN, CNN)** 🕸️ | **Space Exploration** 🌌 |
-| **Git** 🌿 | **YOLO** 📸 | **Software Development** 💾 |
-| - | **OpenCV** 📷 | - |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural_Networks_(NN,_CNN)-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YOLO-FF6F61?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Robotics-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_Development-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Space_Exploration-1E90FF?style=for-the-badge" />
+</p>
 
 ---
 
