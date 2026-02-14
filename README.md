@@ -5,7 +5,7 @@
 # Hi, I'm Aya ElTaher 👋
 
 🎓 Computer Science Student | AI & Robotics Enthusiast  
-🌌 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Robotics, and Software Development  
+🌌 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks (NN, CNN), Computer Vision, Robotics, and Software Development  
 🚀 Fascinated by Space, Stars, Planets, the Moon, and the mysteries of the Universe  
 ☕ Lover of coffee, calm nights, and stargazing  
 
@@ -20,6 +20,8 @@
 
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge)]()  
 [![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge)]()  
+[![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F61?style=for-the-badge)]()  
+[![CNN](https://img.shields.io/badge/CNN-FF6F61?style=for-the-badge)]()  
 [![YOLO](https://img.shields.io/badge/YOLO-FF6F61?style=for-the-badge)]()  
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()  
 
