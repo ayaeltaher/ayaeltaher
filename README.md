@@ -3,18 +3,23 @@
 </p>
 
 <h1 align="center">Hi, I'm Aya ElTaher 👋</h1>
-<h3 align="center">CS Student 🧠 | AI & Robotics 🤖 | Space & Coffee 🌌☕</h3>
+<h3 align="center">Computer Science Student 🧠 | AI & Robotics Enthusiast 🤖 | Space & Coffee Lover 🌌☕</h3>
 
 ---
 
-## 🌟 Skills
-Python, C++, Java, Git | ML, DL, NN & CNN | CV & Robotics
+## 🚀 About Me
 
----
-
-## 📫 Connect
-[LinkedIn](Your_LinkedIn) | [Email](mailto:Your_Email)
-
----
-
-> "And if you wish upon a star, may God grant you the moon." 🌙⭐
+```python
+class AyaElTaher:
+    role = "Computer Science Student & AI Enthusiast"
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Neural Networks (NN, CNN)",
+        "Computer Vision",
+        "Robotics",
+        "Software Development",
+        "Space & Astronomy",
+        "Coffee & Calm Nights"
+    ]
