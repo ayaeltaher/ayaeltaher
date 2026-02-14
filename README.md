@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600"/>
+  <img src="https://tenor.com/bweTB.gif" width="600"/>
 </p>
 
 # Hi, I'm Aya ElTaher 👋
