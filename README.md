@@ -37,15 +37,18 @@ Beyond technology, I'm fascinated by the cosmos - **Space**, **Stars**, **Planet
 ### 🤖 AI/ML & Computer Vision
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+<br/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
 ### 🛠️ Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
@@ -57,23 +60,14 @@ Beyond technology, I'm fascinated by the cosmos - **Space**, **Stars**, **Planet
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ayaeltaher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" width="100%" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaeltaher&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaeltaher&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="50%" />
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayaeltaher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
 
-<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayaeltaher&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayaeltaher&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaeltaher&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayaeltaher&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -82,7 +76,9 @@ Beyond technology, I'm fascinated by the cosmos - **Space**, **Stars**, **Planet
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayaeltaher&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayaeltaher&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+
 </div>
 
 ---
@@ -109,11 +105,11 @@ Beyond technology, I'm fascinated by the cosmos - **Space**, **Stars**, **Planet
   
 ### 💫 *"And if you wish upon a star, may God grant you the moon."* 🌙⭐
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=AI+%26+Robotics+Enthusiast+%F0%9F%A4%96;Computer+Science+Student+%F0%9F%92%BB;Deep+Learning+%26+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Always+Learning+%26+Exploring+%F0%9F%9A%80;Space+%26+Stars+Lover+%E2%AD%90" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=AI+%26+Robotics+Enthusiast+%F0%9F%A4%96;Computer+Science+Student+%F0%9F%92%BB;Deep+Learning+%26+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Always+Learning+%26+Exploring+%F0%9F%9A%80;Space+%26+Stars+Lover+%E2%AD%90)
 
 <br/>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
 </div>
 
