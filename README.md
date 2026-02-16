@@ -6,8 +6,12 @@
 <h3 align="center">Computer Science Student | AI & Robotics Enthusiast 🌌</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayaeltaher/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:eltaheraya239@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayaeltaher/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:eltaheraya239@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -35,19 +39,29 @@ I also love Space, Stars, Planets, the Moon, and stargazing. ☕
 
 ## 📌 Pinned Repositories
 
-<p align="left">
-  <a href="https://github.com/ayaeltaher/Project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaeltaher&repo=Project1&theme=tokyonight" /></a>
-  <a href="https://github.com/ayaeltaher/Project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaeltaher&repo=Project2&theme=tokyonight" /></a>
-  <a href="https://github.com/ayaeltaher/Project3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaeltaher&repo=Project3&theme=tokyonight" /></a>
+<p align="center">
+  <a href="https://github.com/ayaeltaher/Project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaeltaher&repo=Project1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ayaeltaher/Project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaeltaher&repo=Project2&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ayaeltaher/Project3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaeltaher&repo=Project3&theme=tokyonight" />
+  </a>
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayaeltaher/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:eltaheraya239@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayaeltaher/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:eltaheraya239@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
