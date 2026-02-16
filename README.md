@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Aya Avatar" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3poYW5mcHdvZDk4Njk0cG4wZ24yM2ZmczhpcWU0c2xwcmozcDZuNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fbsc0MVQT76AaSLccO/giphy.gif" />
+  <img width="80%" alt="Aya GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3poYW5mcHdvZDk4Njk0cG4wZ24yM2ZmczhpcWU0c2xwcmozcDZuNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fbsc0MVQT76AaSLccO/giphy.gif" />
 </p>
 
 <h1 align="center">Hi, I'm Aya ElTaher 👋</h1>
@@ -18,7 +18,7 @@ I also love Space, Stars, Planets, the Moon, and stargazing. ☕
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Skills & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
@@ -33,11 +33,21 @@ I also love Space, Stars, Planets, the Moon, and stargazing. ☕
 
 ---
 
+## 📌 Pinned Repositories
+
+<p align="left">
+  <a href="https://github.com/ayaeltaher/Project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaeltaher&repo=Project1&theme=tokyonight" /></a>
+  <a href="https://github.com/ayaeltaher/Project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaeltaher&repo=Project2&theme=tokyonight" /></a>
+  <a href="https://github.com/ayaeltaher/Project3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaeltaher&repo=Project3&theme=tokyonight" /></a>
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ayaeltaher/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:eltaheraya239@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ayaeltaher/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:eltaheraya239@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
