@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Aya ElTaher 👋</h1>
-<h3 align="center">Computer Science Student | AI & Robotics Enthusiast 🌌</h3>
+<h3 align="center">Computer Science Student | AI & Robotics Enthusiast ✨🪐</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayaeltaher/">
@@ -37,26 +37,10 @@ I also love Space, Stars, Planets, the Moon, and stargazing. ☕
 
 ---
 
-## 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/ayaeltaher/Project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaeltaher&repo=Project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ayaeltaher/Project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaeltaher&repo=Project2&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ayaeltaher/Project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayaeltaher&repo=Project3&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayaeltaher/">
+  <a href="https://www.linkedin.com/in/aya-eltaher-851b46356/?locale=en">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:eltaheraya239@gmail.com">
