@@ -61,7 +61,7 @@ Beyond technology, I'm fascinated by the cosmos - **Space**, **Stars**, **Planet
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/ayaeltaher/" target="_blank">
+<a href="https://www.linkedin.com/in/aya-eltaher-851b46356/?locale=en" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
 </a>
 <a href="mailto:eltaheraya239@gmail.com">
