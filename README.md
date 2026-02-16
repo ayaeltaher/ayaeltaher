@@ -65,19 +65,7 @@ Beyond technology, I'm fascinated by the cosmos - **Space**, **Stars**, **Planet
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayaeltaher&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaeltaher&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayaeltaher&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayaeltaher&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaeltaher&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
