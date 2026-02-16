@@ -41,10 +41,10 @@ I also love Space, Stars, Planets, the Moon, and stargazing. ☕
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ayaeltaher/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="filter: invert(100%);" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin-white.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="mailto:eltaheraya239@gmail.com">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="30" style="filter: invert(100%);" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="30" />
   </a>
 </p>
 ---
