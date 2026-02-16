@@ -4,7 +4,7 @@
   # Hi, I'm Aya ElTaher 👋
   ### Computer Science Student | AI & Robotics Enthusiast ✨🪐
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayaeltaher/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-eltaher-851b46356/?locale=en)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eltaheraya239@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayaeltaher)
   
@@ -15,32 +15,14 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+I am a passionate Computer Science student with a deep interest in:
+- 🤖 **Artificial Intelligence** & **Machine Learning**
+- 🧠 **Deep Learning** & **Neural Networks** (NN, CNN)
+- 👁️ **Computer Vision** & **Image Processing**
+- 🦾 **Robotics** & **Automation**
+- 💻 **Software Development**
 
-I'm a **Computer Science student** passionate about pushing the boundaries of technology and exploring the infinite possibilities of **Artificial Intelligence**. My journey in tech is driven by curiosity, innovation, and a deep love for problem-solving.
-
-### 💡 What I'm Passionate About
-
-🤖 **Artificial Intelligence & Machine Learning**  
-Building intelligent systems that learn and adapt
-
-🧠 **Deep Learning & Neural Networks**  
-Exploring CNN, RNN, and cutting-edge architectures
-
-👁️ **Computer Vision**  
-Teaching machines to see and understand the world
-
-🦾 **Robotics & Automation**  
-Creating autonomous systems that interact with reality
-
-💻 **Software Development**  
-Crafting clean, efficient, and scalable solutions
-
-### 🌌 Beyond Code
-
-When I'm not coding, you'll find me **stargazing** 🌙✨, contemplating the mysteries of the **cosmos**, and dreaming about **Space**, **Stars**, and **Planets**. The universe inspires my approach to problem-solving—thinking big, staying curious, and never stopping exploration.
-
-> *"The cosmos is within us. We are made of star-stuff."* — Carl Sagan
+Beyond technology, I'm fascinated by the cosmos - **Space**, **Stars**, **Planets**, and the **Moon** 🌙. I love stargazing and contemplating the universe! ☕✨
 
 ---
 
@@ -79,7 +61,7 @@ When I'm not coding, you'll find me **stargazing** 🌙✨, contemplating the my
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/ayaeltaher/" target="_blank">
+<a href="https://www.linkedin.com/in/aya-eltaher-851b46356/?locale=en" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
 </a>
 <a href="mailto:eltaheraya239@gmail.com">
