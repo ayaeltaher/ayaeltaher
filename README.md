@@ -41,12 +41,8 @@ I also love Space, Stars, Planets, the Moon, and stargazing. ☕
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ayaeltaher/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
-  </a>
-  <a href="mailto:eltaheraya239@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
-  </a>
+<a href="https://twitter.com/amrithhun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amrithhun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamedamrith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedamrith" height="30" width="40" /></a>
 </p>
 
 ---
