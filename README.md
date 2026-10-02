@@ -24,7 +24,7 @@
 
 I’m building my path in **Artificial Intelligence**, with a growing focus on **Machine Learning, Deep Learning, and Computer Vision**.
 
-I enjoy turning what I learn into practical projects — from AI models and image understanding to autonomous systems and real-world applications.
+I enjoy turning what I learn into practical projects while continuously strengthening my technical and problem-solving skills.
 
 Beyond technology, I’ve always been fascinated by **space, stars, planets, and the Moon** 🌙✨.
 
@@ -69,51 +69,6 @@ Beyond technology, I’ve always been fascinated by **space, stars, planets, and
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-### 🚗 Delivero — Smart Autonomous Delivery Vehicle
-
-An AI-powered autonomous delivery vehicle designed for controlled environments such as universities, hospitals, warehouses, and compounds.
-
-**AI & Computer Vision:**
-
-* Behavioral Cloning for autonomous steering
-* YOLO-based object detection
-* Lane detection
-* Real-time inference on Raspberry Pi 5
-
-**Technologies:**
-`Python` `TensorFlow` `TFLite` `YOLOv8` `OpenCV` `Raspberry Pi`
-
----
-
-### 🖼️ Image Captioning Using CNN & LSTM
-
-An AI system that generates natural-language descriptions for uploaded images.
-
-* CNN-based encoder for visual feature extraction
-* LSTM-based decoder for caption generation
-* Image preprocessing and text preprocessing
-
-**Technologies:**
-`Python` `TensorFlow` `Keras` `CNN` `LSTM`
-
----
-
-### 🎭 Deepfake Detection Using Machine Learning
-
-A machine-learning based system for detecting manipulated images using handcrafted visual features and classical ML algorithms.
-
-* HOG, LBP, Color Histogram & DCT feature extraction
-* SelectKBest for feature selection
-* XGBoost & Random Forest classification
-* Streamlit-based interface
-
-**Technologies:**
-`Python` `scikit-learn` `XGBoost` `OpenCV` `Streamlit`
 
 ---
 
