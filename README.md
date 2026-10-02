@@ -7,10 +7,11 @@
 
   <p>
     <a href="https://www.linkedin.com/in/aya-eltaher-851b46356/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aya.eltaher77@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email" />
     </a>
   </p>
 
@@ -109,12 +110,4 @@ Continuously learning, experimenting, and building practical AI projects.
 
 ### 🌙 *“And if you wish upon a star, may God grant you the moon.”* ⭐
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&color=0E75B6\&center=true\&vCenter=true\&width=600\&lines=Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+with+Python+%F0%9F%90%8D;Learning+Machine+Learning+%F0%9F%A7%A0;Exploring+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Always+Learning+%26+Building+%F0%9F%9A%80)
-
-<br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=12\&height=100\&section=footer)
-
-<b>Made with ❤️ by Aya Eltaher</b>
-
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&color=0E75B6\&center=true\&vCenter=true\&width=600\&lines=Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+with+Python+%F0%9F%90%8D;Learning+Machine+Learning+%F0%9F%A7%A0;Exploring+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Always+Learning+%26+Building+%F0%9F%)
