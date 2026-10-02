@@ -5,27 +5,25 @@
 
 ### Computer & Information Technology Graduate | AI/ML & Computer Vision Enthusiast 🤖🪐
 
- <p>
-  <a href="https://www.linkedin.com/in/aya-eltaher-851b46356/">
-    <img 
-      src="https://img.icons8.com/color/96/linkedin.png" 
-      width="48" 
-      height="48" 
-      alt="LinkedIn"
-    />
-  </a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=aya.eltaher77@gmail.com">
-    <img 
-      src="https://img.icons8.com/color/96/gmail-new.png" 
-      width="48" 
-      height="48" 
-      alt="Email"
-    />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/aya-eltaher-851b46356/">
+          <img src="https://img.icons8.com/color/96/linkedin.png" width="48" height="48" alt="LinkedIn" />
+        </a>
+      </td>
+      <td>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aya.eltaher77@gmail.com">
+          <img src="https://img.icons8.com/color/96/gmail-new.png" width="48" height="48" alt="Email" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<p>
   <img src="https://komarev.com/ghpvc/?username=ayaeltaher&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+</div>
+
 </div>
 
 ---
