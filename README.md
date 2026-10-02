@@ -5,7 +5,7 @@
 
 ### Computer & Information Technology Graduate | AI/ML & Computer Vision Enthusiast 🤖🪐
 
-  <p>
+ <p>
   <a href="https://www.linkedin.com/in/aya-eltaher-851b46356/">
     <img 
       src="https://img.icons8.com/color/96/linkedin.png" 
@@ -13,9 +13,7 @@
       height="48" 
       alt="LinkedIn"
     />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aya.eltaher77@gmail.com">
+  </a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=aya.eltaher77@gmail.com">
     <img 
       src="https://img.icons8.com/color/96/gmail-new.png" 
       width="48" 
@@ -28,7 +26,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=ayaeltaher&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
-
 </div>
 
 ---
