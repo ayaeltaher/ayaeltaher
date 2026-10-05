@@ -89,18 +89,6 @@ Egyptian E-Learning University — **2026**
 
 **Department:** Information Technology
 
----
-
-## 📜 Certifications & Professional Development
-
-* **Pearson IT Specialist — Artificial Intelligence**
-* **Elements of AI for Business** — University of Helsinki & MinnaLearn
-* **Huawei HCIA-AI V3.5**
-* **Artificial Intelligence** — 2025
-* **From Idea to Startup** — Edraak
-
----
-
 ## 🌱 Currently Learning
 
 ```text
